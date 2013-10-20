@@ -1,3 +1,2 @@
-android_device_lge_fx1sk
-========================
-Device tree for LG F7 (Boost Mobile)
+Device tree for LG Optimus F7 (Boost Mobile)
+===========================================
